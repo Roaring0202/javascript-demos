@@ -10,6 +10,8 @@ with.
 
 ## My JavaScript Demos - I Love JavaScript!
 
+* [Base Tag HREF Doesn't Affect Document Root-Relative URLs](https://bennadel.github.io/JavaScript-Demos/demos/base-tag-href/)
+* [Rotating Table Headers With CSS Transform](https://bennadel.github.io/JavaScript-Demos/demos/rotate-table-headers/)
 * [Canvas "alphabetic" textBaseline Is Consistent Across Browsers](https://bennadel.github.io/JavaScript-Demos/demos/canvas-baseline2/)
 * [Rendering Text To Canvas With Adjusted X,Y Offsets For Better Cross-Browser Consistency](https://bennadel.github.io/JavaScript-Demos/demos/canvas-baseline/)
 * [Rendering Wrapped Text To A Canvas In JavaScript](https://bennadel.github.io/JavaScript-Demos/demos/text-node-line-wrapping-canvas/)
