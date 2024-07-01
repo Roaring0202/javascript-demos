@@ -10,6 +10,10 @@ with.
 
 ## My JavaScript Demos - I Love JavaScript!
 
+* [Dynamic Tab-Size Demo In JavaScript](https://bennadel.github.io/JavaScript-Demos/demos/tab-size)
+* [You Can Render Anything In Angular 15](https://bennadel.github.io/JavaScript-Demos/demos/render-anything-angular15/dist)
+* [Angular 15 - Hello World](https://bennadel.github.io/JavaScript-Demos/demos/ng-15-hello-world/dist)
+* [Angular 14 - Hello World](https://bennadel.github.io/JavaScript-Demos/demos/ng-14-hello-world/dist)
 * [Base Tag HREF Doesn't Affect Document Root-Relative URLs](https://bennadel.github.io/JavaScript-Demos/demos/base-tag-href/)
 * [Rotating Table Headers With CSS Transform](https://bennadel.github.io/JavaScript-Demos/demos/rotate-table-headers/)
 * [Canvas "alphabetic" textBaseline Is Consistent Across Browsers](https://bennadel.github.io/JavaScript-Demos/demos/canvas-baseline2/)
